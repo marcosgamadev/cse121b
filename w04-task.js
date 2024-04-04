@@ -21,7 +21,7 @@ myProfile.hobbies = ["Reading", "Study", "Hiking"];
 myProfile.placesLived = [];
 
 
-myProfile.placesLived.push({ place: "São Paulo", length: "2 years" });
+myProfile.placesLived.push({ place: "São Paulo, Brazil", length: "2 years" });
 
 // DOM Manipulation - Output
 
